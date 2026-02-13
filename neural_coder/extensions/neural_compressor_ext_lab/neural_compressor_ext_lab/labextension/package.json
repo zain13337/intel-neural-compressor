@@ -61,7 +61,7 @@
     "@jupyterlab/docregistry": "^3.4.7",
     "@jupyterlab/fileeditor": "^3.4.6",
     "@jupyterlab/mainmenu": "^3.4.6",
-    "@jupyterlab/notebook": "^3.4.7",
+    "@jupyterlab/notebook": "^4.0.0",
     "@jupyterlab/services": "^6.4.7",
     "@jupyterlab/settingregistry": "^3.4.7",
     "@jupyterlab/statedb": "^3.4.7",
